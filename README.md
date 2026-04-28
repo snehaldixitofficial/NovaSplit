@@ -85,10 +85,4 @@ src/
 
 ---
 
-## Screenshots
-
-> coming soon
-
----
-
 Made by Snehal · Built as a personal project
