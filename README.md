@@ -2,6 +2,8 @@
 
 NovaSplit is a clean, dark-themed expense splitting app built for college students and friend groups. Whether you're tracking who owes you for lunch or splitting a Goa trip with 6 people, NovaSplit keeps it simple and organized.
 
+Live Deployed Link : https://novasplit-finance.vercel.app/
+
 ---
 
 ## What it does
