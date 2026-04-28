@@ -81,10 +81,5 @@ src/
 
 ---
 
-## Live Demo
 
-[novasplit.vercel.app](https://novasplit.vercel.app)
-
----
-
-Made by Snehal · Built as a personal project
+Made by Snehal Dixit
